@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="323"/>
+    <region id="ActionResourceDefinitions">
+        <node id="root">
+            <children>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7aa5c3d1gdaf2g407cgb787ga882fd142e1a" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="ChornalShiftPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="UUID" type="guid" value="621e25f9-af07-4a3c-8a58-cff9b6c61ad0"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h14c1725fg75e4g45a6g9440gbc20eafb0a74" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/> 
+                    <attribute id="Name" type="FixedString" value="MomentaryStasisPoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="UUID" type="guid" value="399fb01f-4411-4882-a2a6-cbecd2f19a11"/>
+                </node>
+                <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcc4be0e2g7836g44f2g8830g2a1bb87a922e" version="1"/>
+                    <attribute id="IsHidden" type="bool" value="true"/> 
+                    <attribute id="Name" type="FixedString" value="ConvergentFuturePoint"/>
+                    <attribute id="ReplenishType" type="FixedString" value="Rest"/>
+                    <attribute id="UUID" type="guid" value="b6756769-9897-4186-9611-a2c95458c04e"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
